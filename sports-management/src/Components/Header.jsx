@@ -19,7 +19,7 @@ function Header() {
             <Link to="/about">About</Link>
           </li>
           <li>
-          <Link to="/Join">Join</Link>
+          <Link to="/login">Join</Link>
             
           </li>
         </ul>
