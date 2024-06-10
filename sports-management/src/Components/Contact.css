@@ -1,0 +1,25 @@
+.garden{
+  display: flex;
+  flex-direction: row;
+  gap: 15rem;
+  padding-left: 120px;
+  font-size: 22px;
+}
+
+.contacts h2{
+  font-size: 38px;
+}
+
+.contacts h3 {
+  font-size: 22px;
+}
+.contacts p {
+  font-size: 18px;
+}
+
+.contacts {
+  background-color: rgb(22, 22, 44);
+  color: white;
+  margin-left: 35px;
+   margin-right: 35px;
+}

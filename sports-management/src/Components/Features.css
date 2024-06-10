@@ -1,0 +1,41 @@
+.features {
+    padding: 2rem;
+  }
+  
+  .feature-list {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+  }
+  
+  .feature {
+    width: 30%;
+    
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem;
+    text-decoration: underline 3px solid darkblue;
+  }
+  
+  .feature p {
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  .features h2 {
+    font-size: 35px;
+   
+    
+  }
+
+  .feature img{
+    height: 300px;
+    width: 350px;
+    gap: 2rem;
+  }
+
+  .feature p {
+
+  }
+  

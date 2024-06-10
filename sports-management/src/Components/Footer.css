@@ -1,0 +1,19 @@
+.footer {
+    padding: 1rem;
+    font-style: italic;
+    font-size: 20px;
+    color: black;
+  }
+  
+  .footer .social-media {
+    margin-top: 1rem;
+  }
+  
+  .footer .social-media a {
+    color: black;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    font-style: italic;
+    font-size: 20px;
+  }
+  
